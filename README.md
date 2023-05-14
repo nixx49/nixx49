@@ -1,11 +1,9 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
-<h1 align="center">Hi 👋, I'm Nimantha Karunanayake</h1>
-<h3 align="center">A passionate mobile application developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h1 align="center">Hi 👋, I'm Nixx49:)</h1>
+<h3 align="center">A Mobile Application Developer from Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixx49&label=Profile%20views&color=0e75b6&style=flat" alt="nixx49" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nixx49" alt="nixx49" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nimanthakmp" target="blank"><img src="https://img.shields.io/twitter/follow/nimanthakmp?logo=twitter&style=for-the-badge" alt="nimanthakmp" /></a> </p>
 
