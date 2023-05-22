@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working at **🏫 📚 🎓**
 
-- 🌱 I’m currently learning **Flutter,Firebase,Laravel,Nodejs,PHP**
+- 🌱 I’m currently learning **Flutter, Firebase, Laravel, Nodejs, PHP, Machine Learning, Python**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter Projects, ML Projects**
 
-- 💬 Ask me about **Mobile App Development**
+- 💬 Ask me about **Mobile App Development, Machine Learning**
 
 - 📫 How to reach me **nimanthakmp@gmail.com**
 
