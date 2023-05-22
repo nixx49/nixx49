@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Nixx49:)</h1>
-<h3 align="center">A Mobile Application Developer from Sri Lanka</h3>
+<h3 align="center">A Mobile Application Developer, Data Science Undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixx49&label=Profile%20views&color=0e75b6&style=flat" alt="nixx49" /> </p>
 
